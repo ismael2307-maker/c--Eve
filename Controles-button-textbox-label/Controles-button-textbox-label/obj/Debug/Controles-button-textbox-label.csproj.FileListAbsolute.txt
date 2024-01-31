@@ -1,0 +1,9 @@
+C:\Users\DELL 5580\Desktop\Programacion\C#\Controles-button-textbox-label\Controles-button-textbox-label\bin\Debug\Controles-button-textbox-label.exe.config
+C:\Users\DELL 5580\Desktop\Programacion\C#\Controles-button-textbox-label\Controles-button-textbox-label\bin\Debug\Controles-button-textbox-label.exe
+C:\Users\DELL 5580\Desktop\Programacion\C#\Controles-button-textbox-label\Controles-button-textbox-label\bin\Debug\Controles-button-textbox-label.pdb
+C:\Users\DELL 5580\Desktop\Programacion\C#\Controles-button-textbox-label\Controles-button-textbox-label\obj\Debug\Controles_button_textbox_label.Form1.resources
+C:\Users\DELL 5580\Desktop\Programacion\C#\Controles-button-textbox-label\Controles-button-textbox-label\obj\Debug\Controles_button_textbox_label.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\Programacion\C#\Controles-button-textbox-label\Controles-button-textbox-label\obj\Debug\Controles-button-textbox-label.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\Programacion\C#\Controles-button-textbox-label\Controles-button-textbox-label\obj\Debug\Controles-button-textbox-label.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\Programacion\C#\Controles-button-textbox-label\Controles-button-textbox-label\obj\Debug\Controles-button-textbox-label.exe
+C:\Users\DELL 5580\Desktop\Programacion\C#\Controles-button-textbox-label\Controles-button-textbox-label\obj\Debug\Controles-button-textbox-label.pdb

@@ -1,0 +1,10 @@
+C:\Users\DELL 5580\Desktop\Programacion\C#\Try-catch\Try-catch\bin\Debug\Try-catch.exe.config
+C:\Users\DELL 5580\Desktop\Programacion\C#\Try-catch\Try-catch\bin\Debug\Try-catch.exe
+C:\Users\DELL 5580\Desktop\Programacion\C#\Try-catch\Try-catch\bin\Debug\Try-catch.pdb
+C:\Users\DELL 5580\Desktop\Programacion\C#\Try-catch\Try-catch\obj\Debug\Try-catch.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\Desktop\Programacion\C#\Try-catch\Try-catch\obj\Debug\Try_catch.Form1.resources
+C:\Users\DELL 5580\Desktop\Programacion\C#\Try-catch\Try-catch\obj\Debug\Try_catch.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\Programacion\C#\Try-catch\Try-catch\obj\Debug\Try-catch.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\Programacion\C#\Try-catch\Try-catch\obj\Debug\Try-catch.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\Programacion\C#\Try-catch\Try-catch\obj\Debug\Try-catch.exe
+C:\Users\DELL 5580\Desktop\Programacion\C#\Try-catch\Try-catch\obj\Debug\Try-catch.pdb

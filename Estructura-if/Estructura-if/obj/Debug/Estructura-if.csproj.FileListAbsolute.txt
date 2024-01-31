@@ -1,0 +1,10 @@
+C:\Users\DELL 5580\Desktop\Programacion\C#\Estructura-if\Estructura-if\bin\Debug\Estructura-if.exe.config
+C:\Users\DELL 5580\Desktop\Programacion\C#\Estructura-if\Estructura-if\bin\Debug\Estructura-if.exe
+C:\Users\DELL 5580\Desktop\Programacion\C#\Estructura-if\Estructura-if\bin\Debug\Estructura-if.pdb
+C:\Users\DELL 5580\Desktop\Programacion\C#\Estructura-if\Estructura-if\obj\Debug\Estructura-if.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\Desktop\Programacion\C#\Estructura-if\Estructura-if\obj\Debug\Estructura_if.Form1.resources
+C:\Users\DELL 5580\Desktop\Programacion\C#\Estructura-if\Estructura-if\obj\Debug\Estructura_if.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\Programacion\C#\Estructura-if\Estructura-if\obj\Debug\Estructura-if.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\Programacion\C#\Estructura-if\Estructura-if\obj\Debug\Estructura-if.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\Programacion\C#\Estructura-if\Estructura-if\obj\Debug\Estructura-if.exe
+C:\Users\DELL 5580\Desktop\Programacion\C#\Estructura-if\Estructura-if\obj\Debug\Estructura-if.pdb

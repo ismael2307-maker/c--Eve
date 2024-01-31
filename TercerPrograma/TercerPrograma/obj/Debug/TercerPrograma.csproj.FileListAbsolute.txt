@@ -1,0 +1,7 @@
+C:\Users\DELL 5580\Desktop\Programacion\C#\TercerPrograma\TercerPrograma\bin\Debug\TercerPrograma.exe.config
+C:\Users\DELL 5580\Desktop\Programacion\C#\TercerPrograma\TercerPrograma\bin\Debug\TercerPrograma.exe
+C:\Users\DELL 5580\Desktop\Programacion\C#\TercerPrograma\TercerPrograma\bin\Debug\TercerPrograma.pdb
+C:\Users\DELL 5580\Desktop\Programacion\C#\TercerPrograma\TercerPrograma\obj\Debug\TercerPrograma.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\Desktop\Programacion\C#\TercerPrograma\TercerPrograma\obj\Debug\TercerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\Programacion\C#\TercerPrograma\TercerPrograma\obj\Debug\TercerPrograma.exe
+C:\Users\DELL 5580\Desktop\Programacion\C#\TercerPrograma\TercerPrograma\obj\Debug\TercerPrograma.pdb
