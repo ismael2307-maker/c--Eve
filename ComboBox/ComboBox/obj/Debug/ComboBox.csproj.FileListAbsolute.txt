@@ -1,0 +1,10 @@
+C:\Users\DELL 5580\Desktop\C#Form\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\DELL 5580\Desktop\C#Form\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\DELL 5580\Desktop\C#Form\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\DELL 5580\Desktop\C#Form\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\Desktop\C#Form\ComboBox\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\Users\DELL 5580\Desktop\C#Form\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\C#Form\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\C#Form\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\C#Form\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\DELL 5580\Desktop\C#Form\ComboBox\ComboBox\obj\Debug\ComboBox.pdb

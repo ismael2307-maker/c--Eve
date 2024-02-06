@@ -1,0 +1,10 @@
+C:\Users\DELL 5580\Desktop\C#Form\checkBox\checkBox\bin\Debug\checkBox.exe.config
+C:\Users\DELL 5580\Desktop\C#Form\checkBox\checkBox\bin\Debug\checkBox.exe
+C:\Users\DELL 5580\Desktop\C#Form\checkBox\checkBox\bin\Debug\checkBox.pdb
+C:\Users\DELL 5580\Desktop\C#Form\checkBox\checkBox\obj\Debug\checkBox.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\Desktop\C#Form\checkBox\checkBox\obj\Debug\checkBox.Form1.resources
+C:\Users\DELL 5580\Desktop\C#Form\checkBox\checkBox\obj\Debug\checkBox.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\C#Form\checkBox\checkBox\obj\Debug\checkBox.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\C#Form\checkBox\checkBox\obj\Debug\checkBox.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\C#Form\checkBox\checkBox\obj\Debug\checkBox.exe
+C:\Users\DELL 5580\Desktop\C#Form\checkBox\checkBox\obj\Debug\checkBox.pdb

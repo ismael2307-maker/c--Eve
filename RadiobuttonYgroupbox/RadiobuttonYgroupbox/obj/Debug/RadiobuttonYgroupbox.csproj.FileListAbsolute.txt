@@ -1,0 +1,10 @@
+C:\Users\DELL 5580\Desktop\C#Form\RadiobuttonYgroupbox\RadiobuttonYgroupbox\bin\Debug\RadiobuttonYgroupbox.exe.config
+C:\Users\DELL 5580\Desktop\C#Form\RadiobuttonYgroupbox\RadiobuttonYgroupbox\bin\Debug\RadiobuttonYgroupbox.exe
+C:\Users\DELL 5580\Desktop\C#Form\RadiobuttonYgroupbox\RadiobuttonYgroupbox\bin\Debug\RadiobuttonYgroupbox.pdb
+C:\Users\DELL 5580\Desktop\C#Form\RadiobuttonYgroupbox\RadiobuttonYgroupbox\obj\Debug\RadiobuttonYgroupbox.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\Desktop\C#Form\RadiobuttonYgroupbox\RadiobuttonYgroupbox\obj\Debug\RadiobuttonYgroupbox.Form1.resources
+C:\Users\DELL 5580\Desktop\C#Form\RadiobuttonYgroupbox\RadiobuttonYgroupbox\obj\Debug\RadiobuttonYgroupbox.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\C#Form\RadiobuttonYgroupbox\RadiobuttonYgroupbox\obj\Debug\RadiobuttonYgroupbox.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\C#Form\RadiobuttonYgroupbox\RadiobuttonYgroupbox\obj\Debug\RadiobuttonYgroupbox.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\C#Form\RadiobuttonYgroupbox\RadiobuttonYgroupbox\obj\Debug\RadiobuttonYgroupbox.exe
+C:\Users\DELL 5580\Desktop\C#Form\RadiobuttonYgroupbox\RadiobuttonYgroupbox\obj\Debug\RadiobuttonYgroupbox.pdb
