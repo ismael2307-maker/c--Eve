@@ -1,0 +1,10 @@
+C:\Users\DELL 5580\Desktop\C#Form\Enfermedades\Enfermedades\bin\Debug\Enfermedades.exe.config
+C:\Users\DELL 5580\Desktop\C#Form\Enfermedades\Enfermedades\bin\Debug\Enfermedades.exe
+C:\Users\DELL 5580\Desktop\C#Form\Enfermedades\Enfermedades\bin\Debug\Enfermedades.pdb
+C:\Users\DELL 5580\Desktop\C#Form\Enfermedades\Enfermedades\obj\Debug\Enfermedades.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\Desktop\C#Form\Enfermedades\Enfermedades\obj\Debug\Enfermedades.Form1.resources
+C:\Users\DELL 5580\Desktop\C#Form\Enfermedades\Enfermedades\obj\Debug\Enfermedades.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\C#Form\Enfermedades\Enfermedades\obj\Debug\Enfermedades.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\C#Form\Enfermedades\Enfermedades\obj\Debug\Enfermedades.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\C#Form\Enfermedades\Enfermedades\obj\Debug\Enfermedades.exe
+C:\Users\DELL 5580\Desktop\C#Form\Enfermedades\Enfermedades\obj\Debug\Enfermedades.pdb
