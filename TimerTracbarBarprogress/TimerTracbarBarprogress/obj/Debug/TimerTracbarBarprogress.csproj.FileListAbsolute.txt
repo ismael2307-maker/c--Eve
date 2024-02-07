@@ -1,0 +1,10 @@
+C:\Users\DELL 5580\Desktop\C#Form\TimerTracbarBarprogress\TimerTracbarBarprogress\bin\Debug\TimerTracbarBarprogress.exe.config
+C:\Users\DELL 5580\Desktop\C#Form\TimerTracbarBarprogress\TimerTracbarBarprogress\bin\Debug\TimerTracbarBarprogress.exe
+C:\Users\DELL 5580\Desktop\C#Form\TimerTracbarBarprogress\TimerTracbarBarprogress\bin\Debug\TimerTracbarBarprogress.pdb
+C:\Users\DELL 5580\Desktop\C#Form\TimerTracbarBarprogress\TimerTracbarBarprogress\obj\Debug\TimerTracbarBarprogress.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\Desktop\C#Form\TimerTracbarBarprogress\TimerTracbarBarprogress\obj\Debug\TimerTracbarBarprogress.Form1.resources
+C:\Users\DELL 5580\Desktop\C#Form\TimerTracbarBarprogress\TimerTracbarBarprogress\obj\Debug\TimerTracbarBarprogress.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\C#Form\TimerTracbarBarprogress\TimerTracbarBarprogress\obj\Debug\TimerTracbarBarprogress.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\C#Form\TimerTracbarBarprogress\TimerTracbarBarprogress\obj\Debug\TimerTracbarBarprogress.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\C#Form\TimerTracbarBarprogress\TimerTracbarBarprogress\obj\Debug\TimerTracbarBarprogress.exe
+C:\Users\DELL 5580\Desktop\C#Form\TimerTracbarBarprogress\TimerTracbarBarprogress\obj\Debug\TimerTracbarBarprogress.pdb
