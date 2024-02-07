@@ -1,0 +1,17 @@
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\bin\Debug\net6.0-windows\Ejerc1.exe
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\bin\Debug\net6.0-windows\Ejerc1.deps.json
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\bin\Debug\net6.0-windows\Ejerc1.runtimeconfig.json
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\bin\Debug\net6.0-windows\Ejerc1.dll
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\bin\Debug\net6.0-windows\Ejerc1.pdb
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\Ejerc1.csproj.AssemblyReference.cache
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\Ejerc1.Form1.resources
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\Ejerc1.csproj.GenerateResource.cache
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\Ejerc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\Ejerc1.AssemblyInfoInputs.cache
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\Ejerc1.AssemblyInfo.cs
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\Ejerc1.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\Ejerc1.dll
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\refint\Ejerc1.dll
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\Ejerc1.pdb
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\Ejerc1.genruntimeconfig.cache
+C:\Users\Sistemas2-23\source\repos\Ejerc1\Ejerc1\obj\Debug\net6.0-windows\ref\Ejerc1.dll

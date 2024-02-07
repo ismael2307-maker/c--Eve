@@ -1,0 +1,17 @@
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\bin\Debug\net6.0-windows\Ejerc3.exe
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\bin\Debug\net6.0-windows\Ejerc3.deps.json
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\bin\Debug\net6.0-windows\Ejerc3.runtimeconfig.json
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\bin\Debug\net6.0-windows\Ejerc3.dll
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\bin\Debug\net6.0-windows\Ejerc3.pdb
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\Ejerc3.csproj.AssemblyReference.cache
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\Ejerc3.Form1.resources
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\Ejerc3.csproj.GenerateResource.cache
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\Ejerc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\Ejerc3.AssemblyInfoInputs.cache
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\Ejerc3.AssemblyInfo.cs
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\Ejerc3.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\Ejerc3.dll
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\refint\Ejerc3.dll
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\Ejerc3.pdb
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\Ejerc3.genruntimeconfig.cache
+C:\Users\Sistemas2-23\Desktop\Clase practica\Ejerc3\Ejerc3\obj\Debug\net6.0-windows\ref\Ejerc3.dll
