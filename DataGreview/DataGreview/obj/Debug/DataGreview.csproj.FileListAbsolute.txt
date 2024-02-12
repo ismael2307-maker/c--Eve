@@ -1,0 +1,10 @@
+C:\Users\DELL 5580\Desktop\C#Form\DataGreview\DataGreview\bin\Debug\DataGreview.exe.config
+C:\Users\DELL 5580\Desktop\C#Form\DataGreview\DataGreview\bin\Debug\DataGreview.exe
+C:\Users\DELL 5580\Desktop\C#Form\DataGreview\DataGreview\bin\Debug\DataGreview.pdb
+C:\Users\DELL 5580\Desktop\C#Form\DataGreview\DataGreview\obj\Debug\DataGreview.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\Desktop\C#Form\DataGreview\DataGreview\obj\Debug\DataGreview.Form1.resources
+C:\Users\DELL 5580\Desktop\C#Form\DataGreview\DataGreview\obj\Debug\DataGreview.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\C#Form\DataGreview\DataGreview\obj\Debug\DataGreview.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\C#Form\DataGreview\DataGreview\obj\Debug\DataGreview.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\C#Form\DataGreview\DataGreview\obj\Debug\DataGreview.exe
+C:\Users\DELL 5580\Desktop\C#Form\DataGreview\DataGreview\obj\Debug\DataGreview.pdb

@@ -1,0 +1,10 @@
+C:\Users\DELL 5580\Desktop\C#Form\treeview\treeview\bin\Debug\treeview.exe.config
+C:\Users\DELL 5580\Desktop\C#Form\treeview\treeview\bin\Debug\treeview.exe
+C:\Users\DELL 5580\Desktop\C#Form\treeview\treeview\bin\Debug\treeview.pdb
+C:\Users\DELL 5580\Desktop\C#Form\treeview\treeview\obj\Debug\treeview.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\Desktop\C#Form\treeview\treeview\obj\Debug\treeview.Form1.resources
+C:\Users\DELL 5580\Desktop\C#Form\treeview\treeview\obj\Debug\treeview.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\C#Form\treeview\treeview\obj\Debug\treeview.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\C#Form\treeview\treeview\obj\Debug\treeview.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\C#Form\treeview\treeview\obj\Debug\treeview.exe
+C:\Users\DELL 5580\Desktop\C#Form\treeview\treeview\obj\Debug\treeview.pdb
