@@ -1,0 +1,16 @@
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\bin\Debug\net8.0-windows\PromedioEstudiantes.exe
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\bin\Debug\net8.0-windows\PromedioEstudiantes.deps.json
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\bin\Debug\net8.0-windows\PromedioEstudiantes.runtimeconfig.json
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\bin\Debug\net8.0-windows\PromedioEstudiantes.dll
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\bin\Debug\net8.0-windows\PromedioEstudiantes.pdb
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\obj\Debug\net8.0-windows\PromedioEstudiantes.Form1.resources
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\obj\Debug\net8.0-windows\PromedioEstudiantes.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\obj\Debug\net8.0-windows\PromedioEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\obj\Debug\net8.0-windows\PromedioEstudiantes.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\obj\Debug\net8.0-windows\PromedioEstudiantes.AssemblyInfo.cs
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\obj\Debug\net8.0-windows\PromedioEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\obj\Debug\net8.0-windows\PromedioEstudiantes.dll
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\obj\Debug\net8.0-windows\refint\PromedioEstudiantes.dll
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\obj\Debug\net8.0-windows\PromedioEstudiantes.pdb
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\obj\Debug\net8.0-windows\PromedioEstudiantes.genruntimeconfig.cache
+C:\Users\DELL 5580\Desktop\C# eugenio\PromedioEstudiantes\obj\Debug\net8.0-windows\ref\PromedioEstudiantes.dll

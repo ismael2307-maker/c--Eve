@@ -1,0 +1,16 @@
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\bin\Debug\net8.0-windows\Matriz3por3.exe
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\bin\Debug\net8.0-windows\Matriz3por3.deps.json
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\bin\Debug\net8.0-windows\Matriz3por3.runtimeconfig.json
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\bin\Debug\net8.0-windows\Matriz3por3.dll
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\bin\Debug\net8.0-windows\Matriz3por3.pdb
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\obj\Debug\net8.0-windows\Matriz3por3.Form1.resources
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\obj\Debug\net8.0-windows\Matriz3por3.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\obj\Debug\net8.0-windows\Matriz3por3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\obj\Debug\net8.0-windows\Matriz3por3.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\obj\Debug\net8.0-windows\Matriz3por3.AssemblyInfo.cs
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\obj\Debug\net8.0-windows\Matriz3por3.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\obj\Debug\net8.0-windows\Matriz3por3.dll
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\obj\Debug\net8.0-windows\refint\Matriz3por3.dll
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\obj\Debug\net8.0-windows\Matriz3por3.pdb
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\obj\Debug\net8.0-windows\Matriz3por3.genruntimeconfig.cache
+C:\Users\DELL 5580\Desktop\C# eugenio\Matriz3por3\obj\Debug\net8.0-windows\ref\Matriz3por3.dll
